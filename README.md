@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Rohithkumar-7644489
+- 👋 Hi, I’m Bandari Rohith Kumar
 - 👀 I’m interested in ...Computer Science
 - 🌱 I’m currently learning ...DSA
 - 💞️ I’m looking to collaborate on ...
