@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Rohith Kumar</h1>
 <h3 align="center">I am a passionate problem solver who loves, solving real world problems through software.</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brohithkr" alt="brohithkr" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=brohithkr&theme=onedark" alt="brohithkr" /></a> </p>
 
 - 🌱 I’m currently learning **Machine Learning**
 
